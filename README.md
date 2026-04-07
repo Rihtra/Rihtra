@@ -30,7 +30,7 @@
 <br>
 
 ## Language and Tools
-<img src="images/blue-archive-hikari.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="BA Hikari">
+<img src="images/monyet-gif.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="monyet">
 
 #### Main Stack:
 [<img height="48px" width="48px" alt="Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
